@@ -1,0 +1,8 @@
+{
+  "name": "Sureya Academy - Excellence in Education",
+  "description": "A comprehensive, high-performance web platform for Sureya Academy, featuring course management, AI-powered admissions guidance, and student resources.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
